@@ -19,3 +19,6 @@ const _ = require('lodash')
 const items = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems)
+console.log('hello people')
+
+// info on package.json: https://nodesource.com/blog/the-basics-of-package-json/
